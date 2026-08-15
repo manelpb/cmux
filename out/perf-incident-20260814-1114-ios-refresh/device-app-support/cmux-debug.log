@@ -1,0 +1,88 @@
+cmux iOS debug log · cmux · built 2026-08-13 23:52:55 · started 2026-08-14T18:08:34Z
+[    0.002] app launch · composition root initialized
+[    3.096] connection.recovery cancelled trigger=presencePush attempt=2FF15627-17E7-475E-8509-0D2A1F2BAE92
+[    7.316] macupdate.hint caps=48 version=0.64.22 hint=nil
+[    7.382] sync.transport=render_grid
+[    7.465] sync.subscribe_ok topics=16 transport=renderGrid
+[    7.502] notif.reconcile delivered=0 handled=0 unread=0
+[    7.968] changes.summary ok requested=1 summaries=1 chips=0 sample=- reqSample=96741731
+[   17.575] sync.liveness probe_ok silentMs=10066
+[   24.109] changes.summary ok requested=1 summaries=1 chips=0 sample=- reqSample=96741731
+[   27.793] sync.liveness probe_ok silentMs=10191
+[   37.790] sync.liveness probe_ok silentMs=9972
+[   47.780] sync.liveness probe_ok silentMs=9901
+[   59.317] sync.liveness probe_ok silentMs=11441
+[   69.919] sync.liveness probe_ok silentMs=10579
+[   80.292] sync.liveness probe_ok silentMs=10347
+[   90.291] sync.liveness probe_ok silentMs=9974
+[  100.292] sync.liveness probe_ok silentMs=9974
+[  110.299] sync.liveness probe_ok silentMs=9974
+[  120.297] sync.liveness probe_ok silentMs=9968
+[  130.294] sync.liveness probe_ok silentMs=9969
+[  140.025] sync.liveness probe_ok silentMs=9707
+[  153.361] sync.liveness probe_ok silentMs=13288
+[  162.796] sync.liveness probe_ok silentMs=9404
+[  172.868] sync.liveness probe_ok silentMs=9975
+[  182.820] sync.liveness probe_ok silentMs=9898
+[  192.796] sync.liveness probe_ok silentMs=9946
+[  202.801] sync.liveness probe_ok silentMs=9970
+[  212.387] sync.liveness probe_ok silentMs=9560
+[  222.359] sync.stream_ended redialing stored Mac
+[  222.375] connection.recovery waiting for physical transport drain attempt=D9B57AFC-0EC8-40A1-9596-2CB99F927778
+[  222.388] connection.recovery physical transport drained attempt=D9B57AFC-0EC8-40A1-9596-2CB99F927778
+[  252.801] storedMacReconnect deadline expired generation=7
+[  287.319] storedMacReconnect deadline expired generation=8
+[  332.001] storedMacReconnect deadline expired generation=9
+[  426.703] storedMacReconnect deadline expired generation=10
+[  498.289] storedMacReconnect deadline expired generation=11
+[  777.569] macupdate.hint caps=48 version=0.64.22 hint=nil
+[  777.624] sync.transport=render_grid
+[  777.714] sync.subscribe_ok topics=16 transport=renderGrid
+[  777.788] notif.reconcile delivered=0 handled=0 unread=0
+[  778.205] changes.summary ok requested=1 summaries=1 chips=0 sample=- reqSample=96741731
+[  788.041] sync.liveness probe_ok silentMs=10175
+[  793.665] changes.summary ok requested=1 summaries=1 chips=0 sample=- reqSample=96741731
+[  797.638] sync.liveness probe_ok silentMs=9531
+[  827.757] sync.liveness probe_ok silentMs=29768
+[  828.025] sync.resync reason=connectionRecovery.foreground restart=true surfaces=0
+[  828.184] macupdate.hint caps=48 version=0.64.22 hint=nil
+[  828.568] sync.transport=render_grid
+[  828.713] sync.subscribe_ok topics=16 transport=renderGrid
+[  828.775] notif.reconcile delivered=0 handled=0 unread=0
+[  838.571] sync.liveness probe_ok silentMs=10490
+[  848.625] sync.liveness probe_ok silentMs=9948
+[  858.464] sync.liveness probe_ok silentMs=9772
+[  868.576] sync.liveness probe_ok silentMs=10056
+[  878.627] sync.liveness probe_ok silentMs=9938
+[  888.559] sync.liveness probe_ok silentMs=9871
+[  898.553] sync.liveness probe_ok silentMs=9939
+[  908.620] sync.liveness probe_ok silentMs=9945
+[  918.591] sync.liveness probe_ok silentMs=9905
+[  958.296] sync.stream_ended redialing stored Mac
+[  961.130] sync.resync reason=connectionRecovery.foreground restart=true surfaces=0
+[  961.226] macupdate.hint caps=48 version=0.64.22 hint=nil
+[  961.347] sync.transport=render_grid
+[  961.440] sync.subscribe_ok topics=16 transport=renderGrid
+[  961.609] notif.reconcile delivered=0 handled=0 unread=0
+[  962.094] changes.summary ok requested=2 summaries=2 chips=0 sample=- reqSample=96741731
+[  971.724] sync.liveness probe_ok silentMs=10183
+[  978.192] changes.summary ok requested=2 summaries=2 chips=0 sample=- reqSample=167FAC98
+[  981.694] sync.liveness probe_ok silentMs=9905
+[  991.761] sync.liveness probe_ok silentMs=9935
+[ 1001.767] sync.liveness probe_ok silentMs=9883
+[ 1011.709] sync.liveness probe_ok silentMs=9819
+[ 1021.870] sync.liveness probe_ok silentMs=9921
+[ 1031.688] sync.liveness probe_ok silentMs=9759
+[ 1041.686] sync.liveness probe_ok silentMs=9941
+[ 1051.745] sync.liveness probe_ok silentMs=9943
+[ 1061.709] sync.liveness probe_ok silentMs=9884
+[ 1071.690] sync.liveness probe_ok silentMs=9920
+[ 1081.704] sync.liveness probe_ok silentMs=9939
+[ 1091.698] sync.liveness probe_ok silentMs=9925
+[ 1101.696] sync.liveness probe_ok silentMs=9931
+[ 1111.581] sync.liveness probe_ok silentMs=9827
+[ 1121.689] sync.liveness probe_ok silentMs=10048
+[ 1131.615] sync.liveness probe_ok silentMs=9861
+[ 1141.726] sync.liveness probe_ok silentMs=10014
+[ 1151.694] sync.liveness probe_ok silentMs=9903
+[ 1161.687] sync.liveness probe_ok silentMs=9935
